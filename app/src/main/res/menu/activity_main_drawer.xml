@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_trans"
+            android:icon="@drawable/ic_menu_translate"
+            android:title="Перевод"/>
+        <item
+            android:id="@+id/nav_fav"
+            android:icon="@drawable/ic_menu_favorite"
+            android:title="Избранные"/>
+        <item
+            android:id="@+id/nav_hist"
+            android:icon="@drawable/ic_menu_history"
+            android:title="История"/>
+    </group>
+
+</menu>

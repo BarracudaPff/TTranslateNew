@@ -1,0 +1,9 @@
+<resources>
+    <string name="urlGetLang">https://translate.yandex.net/api/v1.5/tr/getLangs?key=</string>
+    <string name="urlDetect">https://translate.yandex.net/api/v1.5/tr.json/detect?</string>
+    <string name="urlTranslateDict">https://dictionary.yandex.net/api/v1/dicservice/lookup?</string>
+    <string name="urlTranslate">https://translate.yandex.net/api/v1.5/tr.json/translate?</string>
+    <string name="keyDict">key=dict.1.1.20170420T195118Z.f96c0653637cd13b.6a699b71ada40990f6710d83eedbc3420c213a75</string>
+    <string name="keyTrans">key=trnsl.1.1.20170414T194945Z.5cd318af0db72ec4.693457c59432a32c9fd55ff91014e2c0c73e2e87</string>
+
+</resources>

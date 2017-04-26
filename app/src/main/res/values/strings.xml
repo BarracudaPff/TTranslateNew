@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">TTranslator</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="intro">Powered by Translate.yandex.ru</string>
+    <string name="action_settings">Settings</string>
+
+    <string-array name="langlist">
+        <item name="ru">Русский</item>
+        <item name="en">Английский</item>
+        <item>ФААфы</item>
+        <item>выап</item>
+    </string-array>
+
+    <string name="hint_enter">Введите текст</string>
+</resources>
